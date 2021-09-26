@@ -1,3 +1,5 @@
 {
-  "itemGroup.tabmc_works": "MCWorks"
+  "entity.mcworks.wandering_steve": "Wandering Steve",
+  "itemGroup.tabmc_works": "MCWorks",
+  "item.mcworks.wandering_steve_spawn_egg": "Wandering Steve Spawn Egg"
 }
